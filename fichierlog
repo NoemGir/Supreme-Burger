@@ -1,0 +1,173 @@
+-----------------------------------------------------------------
+|                                                               |
+|                          Fichier Log                          |
+|                                                               |
+-----------------------------------------------------------------
+
+
+Vous avez choisi pour methode Uninomial à un tour
+                 Colonnes : Q00_Vote->1 - Burger Black Pepperf2b423d1Q00_Vote->2 - Burger Sud-OuestQ00_Vote->3 - Thai BurgerQ00_Vote->4 - Veggie BurgerQ00_Vote->5 - Fire crackerQ00_Vote->6 - RomaQ00_Vote->7 - CrispyQ00_Vote->8 - Cheese BurgerQ00_Vote->9 - Burger surpriseQ00_Vote->10 - Country
+                   vote 1 :          1              1              2             10              3              3              4              4             10              9     
+                   vote 2 :          1              3             10              9             -1              5              6              4              8              2     
+                   vote 3 :          1              2              3             10              8              7              7              5              3              3     
+                   vote 4 :          9              4              2              5              3             10              1              6              8              7     
+                   vote 5 :         10              9              8              7              6              5              4              3              2              1     
+                   vote 6 :          3              2              6              8              5              9              1              4             10              7     
+                   vote 7 :          1              2              3              4              5              6              7              8              9             10     
+                   vote 8 :          8              9              4              9              5              9              8              8              7              5     
+                   vote 9 :          8              4              9              6              7              5             10             10              6              7     
+                  vote 10 :          2              3              1              8              8              6              7              5             -1              4     
+                  vote 11 :          4              5              6              3              7              2              8              1              9             10     
+                  vote 12 :         10              3              2              8              4              9              1              5              6              7     
+                  vote 13 :          1              7              6             10              5              9              8              4              2              3     
+                  vote 14 :          4              2              8             10              6              1              9              4              7              1     
+                  vote 15 :          8              2              3             10              4              9              5              6              7              1     
+                  vote 16 :          1              2             10              9              3              5              6              4              7              8     
+                  vote 17 :          2              7              5             10              6              4              3              8              9              1     
+                  vote 18 :          7              8              5              9              4              3              1              2             10              6     
+                  vote 19 :         10              1              5              8              7              2              6              9              3              4     
+                  vote 20 :          3             10              9              2              7              8              6              1              5              4     
+                  vote 21 :          5              2              6             10              1              9              8              3              4              7     
+                  vote 22 :          4              3             10              9              8              7              2              1              6              5     
+                  vote 23 :          8              7              3              1              7              8             10              9              1             -1     
+                  vote 24 :         10              9              4              7              5              1              2              6              8              3     
+                  vote 25 :          5              1              9             10              6              7              3              4              8              2     
+                  vote 26 :         10              1              8              4              9              7              2              3              6              5     
+                  vote 27 :          8              9             10              7              4              6              2              1              5              3     
+                  vote 28 :          1              8              9              3              5              2              6              4             -1              7     
+                  vote 29 :          3              4              5             10              2              9              6              7              1              8     
+                  vote 30 :          1              3              1              2              9              5              8              1              9             -1     
+                  vote 31 :          2              3              8              9              1              7              5              4             10              6     
+                  vote 32 :          8              9              9              7              8              5             10              9              6              5     
+                  vote 33 :          1              2              3              7              5             10              4              6              5              8     
+                  vote 34 :          5              7              9              8              6              1              3              2             10              4     
+                  vote 35 :          1              6              2              3              8             10              9              7              5              4     
+                  vote 36 :          9              7              3              4              5              6              1              2              8             10     
+                  vote 37 :          3             10              2              8              6              5              1              4             -1              7     
+                  vote 38 :          9             10              6              7              3              4              1              2              8              5     
+                  vote 39 :          1              5              7              3              6              8              4             10              9              2     
+
+
+Vous avez choisi la methode uninominale à 1 tour 
+
+votant 0 a un vote non conforme-on dira qu'il ne se prononce pas
+votant 13 a un vote non conforme-on dira qu'il ne se prononce pas
+votant 22 a un vote non conforme-on dira qu'il ne se prononce pas
+votant 29 a un vote non conforme-on dira qu'il ne se prononce pas
+votant 31 a un vote non conforme-on dira qu'il ne se prononce pas
+candidat 'Q00_Vote->1 - Burger Black Pepper' numero 0  a recu 9 votes 
+candidat 'Q00_Vote->2 - Burger Sud-Ouest' numero 1  a recu 4 votes 
+candidat 'Q00_Vote->3 - Thai Burger' numero 2  a recu 2 votes 
+candidat 'Q00_Vote->4 - Veggie Burger' numero 3  a recu 0 votes 
+candidat 'Q00_Vote->5 - Fire cracker' numero 4  a recu 2 votes 
+candidat 'Q00_Vote->6 - Roma' numero 5  a recu 2 votes 
+candidat 'Q00_Vote->7 - Crispy' numero 6  a recu 7 votes 
+candidat 'Q00_Vote->8 - Cheese Burger' numero 7  a recu 4 votes 
+candidat 'Q00_Vote->9 - Burger surprise' numero 8  a recu 1 votes 
+candidat 'Q00_Vote->10 - Country' numero 9  a recu 3 votes 
+Le vainqueur est ex-aequo avec 0 personnes
+
+vainqueur Q00_Vote->1 - Burger Black Pepper avec score 0.230769 
+
+Vous avez choisi pour methode Uninominal à deux tours
+                 Colonnes : Q00_Vote->1 - Burger Black Pepperf2b423d1Q00_Vote->2 - Burger Sud-OuestQ00_Vote->3 - Thai BurgerQ00_Vote->4 - Veggie BurgerQ00_Vote->5 - Fire crackerQ00_Vote->6 - RomaQ00_Vote->7 - CrispyQ00_Vote->8 - Cheese BurgerQ00_Vote->9 - Burger surpriseQ00_Vote->10 - Country
+                   vote 1 :          1              1              2             10              3              3              4              4             10              9     
+                   vote 2 :          1              3             10              9             -1              5              6              4              8              2     
+                   vote 3 :          1              2              3             10              8              7              7              5              3              3     
+                   vote 4 :          9              4              2              5              3             10              1              6              8              7     
+                   vote 5 :         10              9              8              7              6              5              4              3              2              1     
+                   vote 6 :          3              2              6              8              5              9              1              4             10              7     
+                   vote 7 :          1              2              3              4              5              6              7              8              9             10     
+                   vote 8 :          8              9              4              9              5              9              8              8              7              5     
+                   vote 9 :          8              4              9              6              7              5             10             10              6              7     
+                  vote 10 :          2              3              1              8              8              6              7              5             -1              4     
+                  vote 11 :          4              5              6              3              7              2              8              1              9             10     
+                  vote 12 :         10              3              2              8              4              9              1              5              6              7     
+                  vote 13 :          1              7              6             10              5              9              8              4              2              3     
+                  vote 14 :          4              2              8             10              6              1              9              4              7              1     
+                  vote 15 :          8              2              3             10              4              9              5              6              7              1     
+                  vote 16 :          1              2             10              9              3              5              6              4              7              8     
+                  vote 17 :          2              7              5             10              6              4              3              8              9              1     
+                  vote 18 :          7              8              5              9              4              3              1              2             10              6     
+                  vote 19 :         10              1              5              8              7              2              6              9              3              4     
+                  vote 20 :          3             10              9              2              7              8              6              1              5              4     
+                  vote 21 :          5              2              6             10              1              9              8              3              4              7     
+                  vote 22 :          4              3             10              9              8              7              2              1              6              5     
+                  vote 23 :          8              7              3              1              7              8             10              9              1             -1     
+                  vote 24 :         10              9              4              7              5              1              2              6              8              3     
+                  vote 25 :          5              1              9             10              6              7              3              4              8              2     
+                  vote 26 :         10              1              8              4              9              7              2              3              6              5     
+                  vote 27 :          8              9             10              7              4              6              2              1              5              3     
+                  vote 28 :          1              8              9              3              5              2              6              4             -1              7     
+                  vote 29 :          3              4              5             10              2              9              6              7              1              8     
+                  vote 30 :          1              3              1              2              9              5              8              1              9             -1     
+                  vote 31 :          2              3              8              9              1              7              5              4             10              6     
+                  vote 32 :          8              9              9              7              8              5             10              9              6              5     
+                  vote 33 :          1              2              3              7              5             10              4              6              5              8     
+                  vote 34 :          5              7              9              8              6              1              3              2             10              4     
+                  vote 35 :          1              6              2              3              8             10              9              7              5              4     
+                  vote 36 :          9              7              3              4              5              6              1              2              8             10     
+                  vote 37 :          3             10              2              8              6              5              1              4             -1              7     
+                  vote 38 :          9             10              6              7              3              4              1              2              8              5     
+                  vote 39 :          1              5              7              3              6              8              4             10              9              2     
+
+
+Vous avez choisi la methode uninominale à 2 tours 
+
+votant 0 a un vote non conforme-on dira qu'il ne se prononce pas
+votant 13 a un vote non conforme-on dira qu'il ne se prononce pas
+votant 22 a un vote non conforme-on dira qu'il ne se prononce pas
+votant 29 a un vote non conforme-on dira qu'il ne se prononce pas
+votant 31 a un vote non conforme-on dira qu'il ne se prononce pas
+
+ Les votes finaux sont : 
+
+candidat 'Q00_Vote->1 - Burger Black Pepper3,1,2,91' numero 0  a recu 9 votes 
+
+candidat 'Q00_Vote->2 - Burger Sud-Ouest' numero 1  a recu 4 votes 
+
+candidat 'Q00_Vote->3 - Thai Burger�7IV' numero 2  a recu 2 votes 
+
+candidat 'Q00_Vote->4 - Veggie Burger' numero 3  a recu 0 votes 
+
+candidat 'Q00_Vote->5 - Fire cracker7IV' numero 4  a recu 2 votes 
+
+candidat 'Q00_Vote->6 - Roma' numero 5  a recu 2 votes 
+
+candidat 'Q00_Vote->7 - Crispy' numero 6  a recu 7 votes 
+
+candidat 'Q00_Vote->8 - Cheese BurgerIV' numero 7  a recu 4 votes 
+
+candidat 'Q00_Vote->9 - Burger surpriseV' numero 8  a recu 1 votes 
+
+candidat 'Q00_Vote->10 - Country' numero 9  a recu 3 votes 
+
+Les 2 vainqueurs du premier tour sont : 
+
+vainqueur  Q00_Vote->1 - Burger Black Pepper3,1,2,91 avec score 0.230769 
+
+vainqueur Q00_Vote->7 - Crispy avec score 0.179487 
+
+vainqueur  Q00_Vote->1 - Burger Black Pepper3,1,2,91 avec score 0.562500 
+
+Vous avez choisi pour methode Condorcet Minimax
+                 Colonnes : Q00_Vote->1 - Burger Black PepperQ00_Vote->2 - Burger Sud-OuestQ00_Vote->3 - Thai BurgerQ00_Vote->4 - Veggie BurgerQ00_Vote->5 - Fire crackerQ00_Vote->6 - RomaQ00_Vote->7 - CrispyQ00_Vote->8 - Cheese BurgerQ00_Vote->9 - Burger surpriseQ00_Vote->10 - Country
+Q00_Vote->1 - Burger Black Pepper3,1,2,91 :          0             23             24             25             20             24             22             19             20             20     
+Q00_Vote->2 - Burger Sud-Ouest :         15              0             22             24             19             24             22             23             25             19     
+Q00_Vote->3 - Thai Burger�7IV :         14             16              0             25             19             19             18             18             19             15     
+Q00_Vote->4 - Veggie Burger :         14             14             14              0             12             12             10              9             15             10     
+Q00_Vote->5 - Fire cracker7IV :         18             19             20             26              0             21             17             19             22             17     
+       Q00_Vote->6 - Roma :         14             14             20             26             17              0             15             12             20             13     
+     Q00_Vote->7 - Crispy :         16             17             21             29             22             23              0             17             23             20     
+Q00_Vote->8 - Cheese BurgerIV :         17             15             19             30             20             27             19              0             24             21     
+Q00_Vote->9 - Burger surpriseV :         19             14             19             21             15             19             16             15              0             14     
+  Q00_Vote->10 - Country :         19             20             23             29             20             24             19             18             24              0     
+
+
+Le candidat vainqueur sera calculé ainsi : 
+ - 1) Pour chaque candidat, prendre le poids maximum par pair du candidat relié avec un candidat gagnant (-> poids de préférénce du candidat gagnant)
+ - 2) Pour chaque candidat, séléctionner le plus grand parmis les poids par pair obtenus
+ - 3) Après avoir obtenue le pire poids par pair de tous les candidats, séléctionner le candidat qui a le plus petit pire poids par pair
+le max des résultat perdant du candidat Q00_Vote->1 - Burger Black Pepperrojet a1 est 0 contre le candidat (null)
+le max des résultat perdant du candidat Q00_Vote->2 - Burger Sud-Ouest est 23 contre le candidat Q00_Vote->1 - Burger Black Pepperrojet a1
+le max des résultat perda

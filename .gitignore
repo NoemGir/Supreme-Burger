@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+**/.DS_Store
+
+# personal files
+.vs/
+obj/
+docs/
+bin/
+Log.txt
+csv/
+src/lecture_csv/voteslog

@@ -1,0 +1,55 @@
+-----Bonjour/Bonsoir vous avez demandé de l'aide avec un -h ou bien ne savez tout simplement pas comment utiliser les fonctions
+Voici un petit index 
+
+1. Tout d'abord, votre ligne de commande devra être sous cette forme  : ./bin/main -_ "_" -_ "_" ... etc
+Sachez que l'ordre après le "./bin/main " n'est pas important tant que vous suivez cette structure :
+
+_________________________________
+|choix | argument qui doit suivre    |
+|  -i  | "csv/nom du fichier.csv"    | ---------  ici vous precisez que vous avez un fichier de ballots
+|  -j  | "csv/nom du fichier.csv"    | ---------  ici vous precisez que vous avez un fichier de ballots pour jugement majoritaire
+|  -d  | "csv/nom du fichier.csv"    | ---------  ici vous precisez que vous avez un fichier avec des matrices de duel
+|  -o  | "csv/nom du fichier.txt"    | ---------  ici vous precisez que vous voulez recuperer toutes les traces de calcul
+|  -m  |  nom de la methode          | ---------  ici vous precisez quelle methode de vote vous voulez choisir (ci-dessous les possibilités)
+_______________________________    __|
+
+-------------------------------------------------------------------------------------------------------------------------------
+-----Pour acceder aux fichiers (VoteCondorcet.csv et jugement.csv ) il faudra mettre dans le terminal csv/nomfichier.csv -----
+---------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------Les guillemets ne sont pas obligatoires (pas de "-i" )
+________________________________________________________________
+| paramètre      | méthode associée                        	|
+| uni1           | uninominale à un tour                   	| ---------> exemple : -m uni1
+| uni2           | uninominale à deux tours                	|   ---------> exemple : -m uni2
+| cm             | méthode de Condorcet et minimax         	|
+| cp             | méthode de Condorcet et rangement des paires |
+| cs             | méthode de Condorcet et méthode de Schulze  	|
+| jm             | méthode du jugement majoritaire         	|
+| all            | toutes les méthodes                     	|
+|________________|______________________________________________| 
+
+Il y a certaines regles à suivre :
+Vous ne pouvez pas mettre -i "_.csv" -d "_.csv" dans une même commande, elles sont incompatibles. 
+le -o "_.txt" est facultatif 
+Vous pourrez avoir ceci comme lignes possibles : ./bin/main -i "csv/_.csv" -m nom_methode -o "_.txt" 
+								OU
+						 ./bin/main -m nom_methode -i "csv/_.csv" -o "_.txt"
+						 		OU
+						 ./bin/main -m nom_methode -d "csv/_.csv" 
+						 		OU
+						 ./bin/main -m nom_methode -i "csv/_.csv" 
+						 		OU
+						 ./bin/main -m nom_methode -d "csv/_.csv" -o "_.txt"  		
+						 
+						 etc ... 
+si besoin d'aide pour revenir a ce menu faites : ./bin/main -h
+Les blocs -_ "_" sont donc interchangeables entre eux mais les arguments (nom de fichier, choix_ methode) doivent bel et bien être associé au choix.
+
+Si vous introduisez plusieurs fichiers après -_ ils seront ignorés (exemple :./bin/main -i "f1" "f2" -m uni1 -m uni2 ---------
+                                                                    le programme ne prendra pas en consideration "f2" ou uni2)
+                                                                    
+Si vous voulez utiliser vos propres fichiers veuillez les placer au bon endroit (csv/)
+
+Pour l'instant , pour utiliser la méthode jugement majoritaire il faudra avoir un fichier s'appelant jugement.csv
+
+---------------------------------------------------------BON COURAGE------------------------------------------------------------------------
